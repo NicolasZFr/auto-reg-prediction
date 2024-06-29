@@ -1,2 +1,4 @@
-# auto-reg-prediction
-Automobile price based on regression (supervised machine learning)
+# Automobile business analysis and supervised machine learning algorithms (price prediction)
+
+> :loudspeaker: Algorithm descriptions were taken from ChatGPT and summarized
+
